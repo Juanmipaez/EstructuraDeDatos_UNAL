@@ -1,7 +1,6 @@
 numero = int(input())
 print(numero)
 
-
 while True:
     if (numero%2 == 0):
         numero = numero/2
